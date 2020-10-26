@@ -1,0 +1,52 @@
+{
+  "restaurants": [
+    {
+      "id": "harrisons",
+      "name": "Harrison's Restaurant",
+      "address": "25 Main St.",
+      "phone": "Phone: 253-7773",
+      "hours": "Hours: 5:00 pm - 9:00 pm",
+      "notes": ["Awesome Lobster Mac N Cheese", " Andrew is a great bartender"]
+    },
+    {
+      "id": "burts",
+      "name": "Burt's Irish Pub",
+      "address": "135 Luce Hill rd.",
+      "phone": "Phone: 253-6071",
+      "hours": "Hours: 11:00 am - 11:00 pm",
+      "notes": ["Amazing Cuban food", " Cheapest drinks in town"]
+    },
+    {
+      "id": "donkey",
+      "name": "The Blue Donkey",
+      "address": "2160 Mountain rd",
+      "phone": "Phone: 253-3100",
+      "hours": "Hours: 11:00 am - 9:00 pm",
+      "notes": ["The place is a dump", " Never eat here"]
+    },
+    {
+      "id": "bierhall",
+      "name": "von Trapp Brewery & Bierhall",
+      "address": "1333 Luce Hill rd",
+      "phone": "Phone: 253-5750",
+      "hours": "Hours: 11:00 am - 9:00 pm",
+      "notes": ["Dead animals everywhere but the food is good", " Loud"]
+    },
+    {
+      "id": "plate",
+      "name": "Plate",
+      "address": "91 S Main st.",
+      "phone": "Phone: 253-2691",
+      "hours": "Hours: 6:00 pm - 9:00 pm",
+      "notes": ["Very small", " Great Apps"]
+    },
+    {
+      "id": "tres",
+      "name": "Tres Amigos",
+      "address": "1190 Mountain rd",
+      "phone": "Phone: 253-6425",
+      "hours": "Hours: 11:00 am - 9:00 pm",
+      "notes": ["Very average", " Great margaritas"]
+    }
+  ]
+}

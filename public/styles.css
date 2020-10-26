@@ -1,0 +1,15 @@
+h1 {
+  margin-bottom: 80px;
+}
+
+#mapid {
+  height: 380px;
+}
+.menuIcon:hover .menuContent {
+  display: block;
+}
+.menuContent {
+  display: none;
+  position: absolute;
+  background-color: white;
+}
